@@ -1,1 +1,2 @@
 *pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
+*clusters.pkl filter=lfs diff=lfs merge=lfs -text
